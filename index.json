@@ -1,0 +1,11 @@
+{
+  "org": "dask",
+  "repo": "dask-cloudprovider",
+  "versions": [
+    {
+      "commit": "f21833282b7cfb01c3f7dd3ee3a3902027020e31",
+      "tag": "",
+      "parsed_at": "2026-10-17T04:15:13.921949+00:00"
+    }
+  ]
+}
